@@ -2,7 +2,7 @@
 *Elementary Programming in C | Epitech | Tek1*
 
 ##### Purpose of the project :
-- [x] Create a sorting algoritm with 2 linked lists and 11 functions to sort
+- [x] Create a sorting algorithm with 2 linked lists and 11 functions to sort
 
 ## Build
 ```
