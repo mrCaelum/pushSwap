@@ -18,7 +18,7 @@ DESCRIPTION
 	list: list of numbers to sort
 ```
 
-### Exemple
+### Example
 ```
 $ ./pushswap 10 -5 2 5 -1
 ra pb ra ra ra ra ra ra pb ra ra ra ra pb ra ra pb ra ra pb pa pa pa pa pa
